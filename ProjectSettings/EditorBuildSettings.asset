@@ -6,6 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Project/Scenes/Street.unity
+    guid: 82e0e705fa437424a9ab7ea3613c69fe
+  - enabled: 1
+    path: Assets/Project/Scenes/House 1/House 1 Main Room.unity
+    guid: 21ab973dcaa1d034cba08b45c057aeb1
+  - enabled: 1
+    path: Assets/Project/Scenes/House 1/House 1 Kitchen.unity
+    guid: a2c206bd6503eec44bee987a35709e04
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

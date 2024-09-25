@@ -1,0 +1,34 @@
+{
+    "name": "StorageInputAction",
+    "maps": [
+        {
+            "name": "Storage",
+            "id": "5910ecb9-45a7-412f-b4dd-ca6712449b6c",
+            "actions": [
+                {
+                    "name": "Close",
+                    "type": "Button",
+                    "id": "7e169262-ccda-43e6-bbdb-c4b58bd20f15",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "93621cd3-60d8-43f3-b50a-0f6d5f6b4d10",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Close",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
